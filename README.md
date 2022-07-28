@@ -1,5 +1,3 @@
-### <h1>Hi there 👋</h1>
-
 <h1 align="center">Hi 👋, I'm Sparsh Gupta</h1>
 <h3 align="center">I, Sparsh Gupta, am currently pursuing my final year of BCA ( Bachelor's of Computer Application ). I am well - versed in Python , Java , JavaScript , Html , CSS , React , Nodejs , VB.NET , SQL , and MongoDB. I have made it a point to actively engage in multiple seminars , inter and intra - college competitions , and various extra training sessions , to hone my skills. The IT industry has always been a field that has had my interest due to its constantly evolving trends. Software and Web development are the only fields with something new and better in the works. It is this characteristic of the industry that primarily motivated me to join it since I believe this industry can satisfy my never - ending hunger for knowledge and learning new things as well as throw me challenges to hone my existing skills.</h3>
 
